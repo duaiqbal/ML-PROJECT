@@ -222,9 +222,4 @@ scikit-learn
 Developed by Tooba Iqbal
 BS Artificial Intelligence Student
 
----
 
-# ⭐ GitHub
-
-If you like this project, give it a ⭐ on GitHub!
-# ML-PROJECT
