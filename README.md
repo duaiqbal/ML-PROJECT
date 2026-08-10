@@ -1,4 +1,4 @@
-# 📱 Mobile Addiction Predictor
+ 📱 Mobile Addiction Predictor
 
 A Machine Learning based project that predicts a user's **mobile phone addiction level** using daily smartphone usage habits such as screen time, social media usage, notifications, sleep behavior, gaming hours, and phone-checking frequency.
 
